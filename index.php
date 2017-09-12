@@ -12,5 +12,7 @@ and open the template in the editor.
     </head>
     <body>
         <h1>Ceci est le titre du TP1</h1>
+        <h2>Sous titre</h2>
+        <p>bla bla</p>
     </body>
 </html>
